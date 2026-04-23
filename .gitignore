@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+netlify/dist/
+.DS_Store
+.env
+*.env
+!.gitignore
